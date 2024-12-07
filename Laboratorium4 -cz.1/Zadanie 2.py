@@ -1,3 +1,4 @@
+# Zad 2
 # Stwórz listę z imionami 4 osób.
 # a. Posortuj ją alfabetycznie i wyświetl,
 # b. Dodaj na końcu dwie osoby i pobierz ostatnią z nich poleceniem pop().

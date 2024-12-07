@@ -16,7 +16,7 @@ def pole_trojkata(a, b, c):
         if a + b <= c or a + c <= b or b + c <= a:
             raise ValueError("Podane boki nie spełniają warunku trójkąta.")
 
-        s = (a + b + c) / 2
+        s = (a + b + c)
 
 
         pole = math.sqrt(s * (s - a) * (s - b) * (s - c))
