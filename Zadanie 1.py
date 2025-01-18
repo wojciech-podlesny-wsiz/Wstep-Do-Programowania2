@@ -12,3 +12,5 @@ elif 50 <= punkty <= 80:
     print("Student może poprawić wynik!")
 else:
     print("Student musi poprawić egzamin!")
+
+
